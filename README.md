@@ -18,5 +18,12 @@ I am starting the #6Companies30Days challenge by @arsh_goyal in which I will be 
 5.	Largest Divisible Subset.
 6.	How to find a perfect Rectangle.
 
+</>Day 3: Challenge Company 1 : Microsoft 
+
+7.	Scheduling a Course.
+8.	Profitable Path in a Tree.
+9.	Number of Pairs satisfying Inequality.
+
+
 
 
