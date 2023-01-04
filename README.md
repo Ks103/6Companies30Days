@@ -24,6 +24,12 @@ I am starting the #6Companies30Days challenge by @arsh_goyal in which I will be 
 8.	Profitable Path in a Tree.
 9.	Number of Pairs satisfying Inequality.
 
+</>Day 4: Challenge Company 1 : Microsoft 
+
+
+  10.	Shortest Unsorted continuous Subarray
+  11.	Number of ways to arrive at a Destination.
+  12.	Longest Happy Prefix
 
 
 
