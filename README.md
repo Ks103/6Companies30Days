@@ -29,7 +29,14 @@ I am starting the #6Companies30Days challenge by @arsh_goyal in which I will be 
 
   10.	Shortest Unsorted continuous Subarray
   11.	Number of ways to arrive at a Destination.
-  12.	Longest Happy Prefix
+  12.	Longest Happy Prefix.
+
+</>Day 5: Challenge Company 1 : Microsoft 
+
+   13.	Seat Arrangement in a SpiceJet Problem - Online OA February ‘22
+   14.	Deletions to make an array divisible.
+   15.	Substrings containing all three Characters
+
 
 
 
