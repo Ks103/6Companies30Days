@@ -38,5 +38,16 @@ I am starting the #6Companies30Days challenge by @arsh_goyal in which I will be 
    15.	Substrings containing all three Characters
 
 
+</>Day 1: Challenge Company 2 : Goldman Sachs
+
+
+1. Max Points on a Line
+2. Valid Square
+3. Factorial with Trailing Zeroes
+4. Number of Boomerangs (Similar to peacocks question)
+5. Split Array into Sequences
+6. Minimum Consecutive Cards to pick up
+
+
 
 
