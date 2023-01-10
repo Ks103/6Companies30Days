@@ -49,5 +49,27 @@ I am starting the #6Companies30Days challenge by @arsh_goyal in which I will be 
 6. Minimum Consecutive Cards to pick up
 
 
+</>Day 2: Challenge Company 2 : Goldman Sachs
+
+
+7. Count Good Triplets in Array (Profits in a Startup Question)
+8. Maximum Points in Archery Competition
+9. Initial Public Offering
+10.People and Secret
+11. Invalid Transactions in an EMI
+12.All elements of a binary Search Tree
+
+
+</>Day 5: Challenge Company 2 : Goldman Sachs
+
+
+  13.Rhombus Sums in a GRID
+  14.Nice Pairs in Array (OTT Platforms and John)
+  15.Good People based on Statements
+
+
+
+
+
 
 
