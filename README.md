@@ -74,6 +74,38 @@ I am starting the #6Companies30Days challenge by @arsh_goyal in which I will be 
 
 
 
+</>Day 1: Challenge Company 3 : Adobe
+
+1. Fraction to a recurring Decimal
+2. Increasing Triplet Sequence
+3. Kth smallest in Lexographical Order
+
+</>Day 2: Challenge Company 3 : Adobe
+
+ 4.Magical String  
+ 5. Non Negative Integers without consecutive ones  
+ 6. Knight in a Chessboard
+
+
+</>Day 3: Challenge Company 3 : Adobe
+
+
+7. Matching Subsequences
+8. Genetic Mutation
+9. Count nodes equal to average of Subtree
+10. Max matrix Sum
+11. Stock Price Fluctuation
+12. Shortest Unsorted Continuous Subarray
+
+
+</>Day 4: Challenge Company 3 : Adobe
+
+13. Game of Dungeon
+14. People aware of secret
+15. Kth smallest Trimmed number
+
+
+
 
 
 
