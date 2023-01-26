@@ -139,4 +139,53 @@ I am starting the #6Companies30Days challenge by @arsh_goyal in which I will be 
 15.	House Robber - Very Imp.
 
 
+</>Day 1: Challenge Company 5 : Google
+
+
+1. Maximum Consecutive Floors Without Special Floors
+2. Maximum Good People Based on Statements
+3. Sort an array 
+4. Fruit into Baskets
+5. Number of Closed Islands
+6. Distinct Echo Substrings
+
+
+
+
+</>Day 2: Challenge Company 5 : Google
+
+7. K divisible Array Substrings
+8. Random Pick with Weight (New Project at Google Play Services)
+9. Maximum Numbers of Coins you can get
+10. Network Delay Time
+11. Matrix Block Sum
+12. Restore IP Addresses
+
+
+
+
+
+
+
+
+
+
+</>Day 4: Challenge Company 5 : Google
+
+13. Swim in rising Water (Jeff and the rising hat)
+14. Strictly Palindromic Number
+15. Max Compatibility Score
+
+
+
+
+
+
+
+
+
+
+
+
+
 
